@@ -1,4 +1,16 @@
 ---TO download free websites:
 https://pixabay.com/
 
+---Create heirarchy -> index.htm,image folder,js folder,css folders in same path
+
+---For reference u can check html5 and css templates on below websites then-> right click->inspect
+https://freewebsitetemplates.com/
+
+---Create a style.css file in cs folder and link the css file to html file by 
+<link rel="stylesheet" href="css/style.css">
+NOTE SHORTCUT FOR ABOVE IN VS--> link:css and add in href folder_name_having_/
+
+---similarly do above step for js(in this project we r not using js though)
+
 ---
+
